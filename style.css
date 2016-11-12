@@ -1,10 +1,13 @@
 body {
     background: red;
+    width: 300px;
+    margin: 0 auto;
 }
+
 
 /*in master*/
 
-h1{
+h1 {
     font-size: 32px;
     color: red;
     background: yellow;
