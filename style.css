@@ -1,14 +1,13 @@
 body {
-    background: red;
-    width: 300px;
-    margin: 0 auto;
+    background: green;
+    color: yellow;
+    width: 450px;
+    margin: 10px 100px;
 }
 
-
-/*in master*/
-
 h1 {
-    font-size: 32px;
-    color: red;
-    background: yellow;
+    font-size: 56px;
+    color: lightblue;
+    background: blue;
+    opacity: 0.5;
 }
