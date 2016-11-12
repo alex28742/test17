@@ -1,8 +1,10 @@
 body {
     background: green;
     color: yellow;
+    width: 450px;
+    margin: 10px 100px;
 }
 
-h1{
+h1 {
     font-size: 24px;
 }
