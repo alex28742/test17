@@ -3,11 +3,11 @@
 
 body {
     background: red;
-    color: yellow;
-    width: 1450px;
-    height:1500px;
+    color: #fff;
+    width: 200px;
+    height:1200px;
     margin: 10px 100px;
-}
+    padding: 10px;
 html{
   margin: auto;
 }
