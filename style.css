@@ -1,13 +1,11 @@
-
-/*new_change branch*/
+/*checkout new*/
 
 body {
-    background: red;
-    color: #fff;
-    width: 200px;
+    background: lightgreen;
+    color: #000;
+    width: 250px;
     height:1200px;
     margin: 10px 100px;
     padding: 10px;
-html{
-  margin: auto;
+    border: 5px solid #000;
 }
