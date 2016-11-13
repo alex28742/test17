@@ -34,3 +34,4 @@ echo "hello world and all people! and all my freands!";
 echo "some thing to update by other user";
 /*some thing*/
 echo "after created new branch I try to look what is happand";
+$a = "some thing";
