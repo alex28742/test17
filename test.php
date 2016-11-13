@@ -30,5 +30,6 @@ foreach ($newArray as $key => $value) {
 	echo "$key => $value . \n";
 }
 
-echo "hello world!";
+echo "hello world and all people!";
 echo "some thing to update by other user";
+/*some thing*/
