@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*new_change branch*/
 
 body {
@@ -10,13 +10,3 @@ body {
 html{
   margin: auto;
 }
-=======
-/*master branch*/
-
-body {
-    background: green;
-    color: yellow;
-    width: 450px;
-    margin: 10px 100px;
-}
->>>>>>> master
