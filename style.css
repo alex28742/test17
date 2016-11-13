@@ -2,9 +2,16 @@
 /*new_change branch*/
 
 body {
+<<<<<<< HEAD
     background: red;
     color: yellow;
     width: 1250px;
+=======
+    background: lightblue;
+    color: yellow;
+    width: 450px;
+    height:500px;
+>>>>>>> master
     margin: 10px 100px;
 }
 html{
