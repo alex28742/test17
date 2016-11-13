@@ -6,14 +6,3 @@ body {
     width: 450px;
     margin: 10px 100px;
 }
-
-h1 {
-    font-size: 56px;
-    color: lightblue;
-    background: blue;
-    opacity: 0.5;
-}
-
-h2{
-  background: lime;
-}
