@@ -1,18 +1,11 @@
 /*new_change branch*/
 
 body {
-    background: green;
+    background: red;
     color: yellow;
-    width: 450px;
+    width: 1250px;
     margin: 10px 100px;
 }
-
-h1 {
-    font-size: 48px;
-    color: lightblue;
-    background: yellow;
-}
-
-span{
-  background: #cbcbcb;
+html{
+  margin: auto;
 }
