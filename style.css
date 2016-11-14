@@ -1,14 +1,13 @@
-/*MASTER*/
+/*NEW*/
 
 body {
-    background: red;
-    color: black;
-    width: 350px;
+    background: lightgreen;
+    color: yellow;
+    width: 250px;
     height:25040px;
     margin: 10px 100px;
     padding: 15px;
     border: 5px dashed #000;
-    line-height: inherit;
 }
 
 h1{
@@ -18,9 +17,8 @@ h1{
 }
 
 p{
-  color lightblue;
-  background: yellow;
-  padding: 34px;
-  margin: 100px;
-
+  color red;
+  padding: 40px;
+  background: blue;
+  margin: auto;
 }
