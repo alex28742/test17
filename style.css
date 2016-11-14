@@ -2,12 +2,13 @@
 
 body {
     background: red;
-    color: yellow;
-    width: 250px;
+    color: black;
+    width: 350px;
     height:25040px;
     margin: 10px 100px;
     padding: 15px;
     border: 5px dashed #000;
+    line-height: inherit;
 }
 
 h1{
