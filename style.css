@@ -22,4 +22,6 @@ p{
   background: blue;
   margin: auto;
   color: lightyellow;
+  line-height: 0.5em;
+  outline: 1px solid black;
 }
