@@ -30,7 +30,7 @@ foreach ($newArray as $key => $value) {
 	echo "$key => $value . \n";
 }
 
-echo "hello world and all people! and all my freands!";
+echo "hello world and all people! and all my friends!";
 echo "some thing to update by other user";
 /*some thing*/
 echo "after created new branch I try to look what is happand";
